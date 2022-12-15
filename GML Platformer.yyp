@@ -9,7 +9,7 @@
     {"id":{"name":"splayer","path":"sprites/splayer/splayer.yy",},"order":3,},
     {"id":{"name":"sjump","path":"sprites/sjump/sjump.yy",},"order":4,},
     {"id":{"name":"sinvisiblewall","path":"sprites/sinvisiblewall/sinvisiblewall.yy",},"order":2,},
-    {"id":{"name":"sClouds","path":"sprites/sClouds/sClouds.yy",},"order":7,},
+    {"id":{"name":"sclouds","path":"sprites/sclouds/sclouds.yy",},"order":7,},
     {"id":{"name":"sbackground","path":"sprites/sbackground/sbackground.yy",},"order":6,},
     {"id":{"name":"twalls","path":"tilesets/twalls/twalls.yy",},"order":0,},
     {"id":{"name":"oplayer","path":"objects/oplayer/oplayer.yy",},"order":0,},
