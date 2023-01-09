@@ -8,8 +8,9 @@ A GML Starter kit for the **Platformer Tutorial (GML) - Parts 1 & 2**
 ***Notes***: 
 
 * The environment was set up using GMS version 2022.9.1.51. 
-* I take no credit for the assets or the concepts.
-* All I have provided are the assets from the tutorial and the preferences for GML code (not visual).
+* I take credit for the assets I also modified the code given from the video.
+* Added the mechanic of swithcing rooms.
+* Tileset was not mine
 * My goal is to provide a template that a student can clone to follow along with Shaun and practice using Source Control Management along the way.
 
 ## Credits
