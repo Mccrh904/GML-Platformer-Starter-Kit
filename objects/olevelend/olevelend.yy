@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "owall",
+  "name": "olevelend",
   "spriteId": {
     "name": "sinvisiblewall",
     "path": "sprites/sinvisiblewall/sinvisiblewall.yy",
@@ -24,7 +24,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"oplayer","path":"objects/oplayer/oplayer.yy",},},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
